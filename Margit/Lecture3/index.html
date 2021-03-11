@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>BG Generator</title>
+
+</head>
+
+<body>
+    <div class="container">
+
+        <h1>Background Gradient Generator</h1>
+
+        <form>
+
+            <h2>At first, choose the direction</h2>
+
+            <div class="direction">
+                <input checked type="radio" name="direction" id="lefttoright" value="to right"/>
+                <label>Left to Right</label>
+            </div>
+
+            <div class="direction">
+                <input type="radio" name="direction" id="righttoleft" value="to left"/>
+                <label>Right to Left</label>
+            </div>
+
+            <div class="direction">
+                <input type="radio" name="direction" id="toptobottom" value="to top"/>
+                <label>Top to Bottom</label>
+            </div>
+
+            <div class="direction">
+                <input type="radio" name="direction" id="bottomtoright" value="to bottom"/>
+                <label>Bottom to Right</label>
+            </div>
+
+            <h2>Second, choose colors</h2>
+            <input type="color" id="color1" value="#ee0ee3"/>
+            <input type="color" id="color2" value="#0dd85b"/>
+
+            <h2>Third, generate your gradient</h2>
+            <input type="submit" value="Generate"/>
+
+        </form>
+
+        <h2>Finally, copy your CSS code</h2>
+        <p></p>
+
+
+    </div>
+
+    <script src="script.js"></script>
+</body>
+
+</html>
