@@ -39,7 +39,7 @@ let months = [
 
 today.textContent = `${days[date.getUTCDay()]} ${date.getUTCDate()} ${
   months[date.getUTCMonth()]
-}  ${date.getHours()}:${date.getUTCMinutes()}`;
+}`;
 // Fetching all data from https://openweathermap.org
 function getData() {
   const cityName = search.value;
