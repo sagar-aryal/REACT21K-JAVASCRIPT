@@ -1,2 +1,2 @@
-.vscode
-apiKey.js
+node_modules
+.env

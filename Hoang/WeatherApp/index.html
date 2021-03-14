@@ -1,40 +1,47 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="style.css">
-    <script src="https://kit.fontawesome.com/d3cd95458a.js" crossorigin="anonymous"></script>
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="style.css" />
+    <script
+      src="https://kit.fontawesome.com/d3cd95458a.js"
+      crossorigin="anonymous"
+    ></script>
     <title>WeatherApp</title>
-</head>
-<body>
+  </head>
+  <body>
     <header>
-        <h1>Weather App</h1>
-        <div class="today"></div>
+      <h1>Weather App</h1>
+      <div class="today"></div>
     </header>
     <main>
-        <section>
-            <div class="input-container">
-                <i class="fas fa-search-location"></i>
-                <input type="text" class="search" placeholder="Enter City..." required/>
-            </div>
-                <div class="error"></div>  
-                <button type="submit" class="btn">Show</button>
-            
-        </section>
-        <section>
-            <div class="weatherData">
-                <div class="city"></div>
-                <div class="info"></div>
-                <div class="temp"></div>
-                <div class="temp-range"></div>
-            </div>
-        </section>
+      <section>
+        <div class="input-container">
+          <i class="fas fa-search-location"></i>
+          <input
+            type="text"
+            class="search"
+            placeholder="Enter City..."
+            required
+          />
+        </div>
+        <div class="error"></div>
+        <button type="submit" class="btn">Show</button>
+      </section>
+      <section>
+        <div class="weatherData">
+          <div class="city"></div>
+          <div class="info"></div>
+          <div class="temp"></div>
+          <div class="temp-range"></div>
+        </div>
+      </section>
     </main>
     <footer>
-        <p> &copy; Sagar Aryal 2021</p>
-    </footer>  
+      <p>&copy; Sagar Aryal 2021</p>
+    </footer>
     <script src="script.js"></script>
-</body>
+  </body>
 </html>

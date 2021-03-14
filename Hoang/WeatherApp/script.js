@@ -6,9 +6,10 @@ let city = document.querySelector(".city");
 let info = document.querySelector(".info");
 let temp = document.querySelector(".temp");
 let range = document.querySelector(".temp-range");
+require("dotenv").config();
 
 //Api  key generated from openweathermap.org.
-const apiKey = "00d4e46ff4781b50fd62972851d5d8a5";
+//let apiKey = "00d4e46ff4781b50fd62972851d5d8a5";
 
 //Generating todays date.
 let date = new Date();
@@ -40,6 +41,9 @@ let months = [
 today.textContent = `${days[date.getUTCDay()]} ${date.getUTCDate()} ${
   months[date.getUTCMonth()]
 }`;
+
+const apiKey = process.env.API_KEY;
+
 // Fetching all data from https://openweathermap.org
 function getData() {
   const cityName = search.value;
