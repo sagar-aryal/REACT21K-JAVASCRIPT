@@ -1,0 +1,85 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  background-image: linear-gradient(to right top, #0ec57f, #d7ff8c);
+  background-attachment: fixed;
+  text-align: center;
+}
+
+h1 {
+  font-size: 5em;
+}
+
+#score {
+  height: 24px;
+}
+
+.gamearea {
+  margin: 100px auto;
+  width: 80%;
+  text-align: center;
+}
+
+.circle {
+  height: 100px;
+  width: 100px;
+  background: grey;
+  box-shadow: 0 0 3px 2px goldenrod;
+  border-radius: 50%;
+  display: inline-block;
+  margin: 20px 20px;
+}
+
+.circle.active {
+  background-image: url("https://source.unsplash.com/400x200/?road");
+}
+
+.circle:active {
+  box-shadow: inset 0 0 5px #333;
+}
+
+button {
+  font-size: 20px;
+  background-color: coral;
+  padding: 10px;
+  border-radius: 5px;
+  border: none;
+  margin: 20px;
+}
+
+#result {
+  visibility: hidden;
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.5);
+  z-index: 100;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.gameoverbox {
+  background-color: wheat;
+  padding: 100px 0 0 0;
+  width: 40%;
+  height: 15%;
+  justify-content: center;
+  align-items: center;
+  border-radius: 10px;
+  position: relative;
+}
+
+.gameoverbox button {
+  background-color: transparent;
+  position: absolute;
+  top: 0px;
+  right: 0px;
+  outline: none;
+}
+
+#gameover {
+  font-size: 24px;
+  color: #333;
+}
