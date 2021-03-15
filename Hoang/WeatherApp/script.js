@@ -48,7 +48,7 @@ today.textContent = `${days[date.getUTCDay()]} ${date.getUTCDate()} ${
 function getData() {
   const cityName = search.value;
   //console.log(cityName);
-  const url = `http://api.openweathermap.org/data/2.5/weather?q=${cityName}&units=metric&appid=${apiKey}`;
+  const url = `https://api.openweathermap.org/data/2.5/weather?q=${cityName}&units=metric&appid=${apiKey}`;
   fetch(url)
     .then((res) => {
       return res.json();
