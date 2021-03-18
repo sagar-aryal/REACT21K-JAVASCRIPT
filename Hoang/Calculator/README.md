@@ -8,7 +8,7 @@ Year: 2021
 
 ## Description
 
-Completed calculator app should be able to perform calculation between 2 numbers (add, subtract, multiply, divide), clearing input fields, and support decimal points.
+Completed calculator application should be able to perform calculation between 2 numbers (add, subtract, multiply, divide), clearing input fields, and support decimal points.
 
 ## Technology
 
