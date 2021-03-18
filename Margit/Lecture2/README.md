@@ -4,3 +4,6 @@ This is an assignment to learn basics of JS related with Operators,prompt(), ale
 
 Group: REACT21K
 Year: 2021
+
+## Description
+Basics JS tasks.
