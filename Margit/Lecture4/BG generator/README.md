@@ -1,8 +1,8 @@
 # BackGround Color Generator Application
 
 This is an assignment project for Business College Helsinki.
-. Group: REACT21K
-. Year: 2021
+Group: REACT21K
+Year: 2021
 
 [LINK TO THE PROJECT]()
 
