@@ -6,7 +6,7 @@ Year: 2021
 
 ## TASK
 
-Make a program that asks the price of the gasoline and amount of money from the user. The program calculates how much gasoline the user gets with the money. The result is displayed to screen.
+Make a program that asks the price of the gasoline and amount of money from the user. The program calculates amount of gasoline the user gets with the money. The result is displayed to screen.
 
 ## Technology
 
