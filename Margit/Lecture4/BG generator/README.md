@@ -4,7 +4,7 @@ This is an assignment project for Business College Helsinki.
 Group: REACT21K
 Year: 2021
 
-[LINK TO THE PROJECT]()
+[LINK TO THE PROJECT](sagar-aryal.github.io/REACT21K_JavaScript/Margit/Lecture4/BG%20generator)
 
 ## Description
 
