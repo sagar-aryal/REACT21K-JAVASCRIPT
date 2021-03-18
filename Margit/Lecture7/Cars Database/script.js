@@ -1,18 +1,3 @@
-Skip to content
-margittennosaar
-/
-REACT21K_JS
-Code
-Issues
-Pull requests
-Actions
-More
-REACT21K_JS/7_task_cars/main.js /
-@margittennosaar
-margittennosaar dom manipulations
- 1 contributor
-57 lines (51 sloc)  1.75 KB
-  
 let formInput = document.querySelector("#inputData");
 let formSearch = document.querySelector("#searchData");
 
@@ -70,15 +55,3 @@ const searchCar = (event) => {
 
 formInput.addEventListener("submit", addCar);
 formSearch.addEventListener("submit", searchCar);
-© 2021 GitHub, Inc.
-Terms
-Privacy
-Security
-Status
-Docs
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About

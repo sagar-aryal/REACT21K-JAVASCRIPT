@@ -1,0 +1,8 @@
+body {
+  background-color: rgb(177, 149, 167);
+}
+
+label {
+  display: inline-block;
+  width: 200px;
+}
