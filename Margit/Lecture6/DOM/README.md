@@ -4,7 +4,7 @@ This is a class task for Business College Helsinki.
 Group: REACT21K
 Year: 2021
 
-[LINK TO THE PROJECT](sagar-aryal.github.io/REACT21K_JavaScript/Margit/Lecture6/DOM/)
+[LINK TO THE PROJECT](https://sagar-aryal.github.io/REACT21K_JavaScript/Margit/Lecture6/DOM/)
 
 ## Description
 
