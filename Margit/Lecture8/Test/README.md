@@ -4,8 +4,6 @@ This is an class task for Business College Helsinki.
 Group: REACT21K
 Year: 2021
 
-[LINK TO THE PROJECT]()
-
 ## Description
 
 This web application is used to test the speed of user clicking the right circle that blinks in the browser with basic features.
