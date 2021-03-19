@@ -12,13 +12,13 @@ This web application is used to test the speed of user clicking the right circle
 
 ### Features
 
-Circles are not clickable before game
-End game button is not visible before game starts and during the game start button is not visible
-Speed gets faster
-After missed three highlighted button game ends
-After clicking wrong circle game ends
-Sounds to start game and end game
-Image to highlighted circle
+- Circles are not clickable before game
+- End game button is not visible before game starts and during the game start button is not visible
+- Speed gets faster
+- After missed three highlighted button game ends
+- After clicking wrong circle game ends
+- Sounds to start game and end game
+- Image to highlighted circle
 
 ## Technology
 
