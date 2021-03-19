@@ -1,4 +1,4 @@
-# Speed Game project
+# Speed Game
 
 This is an assignment project for Business College Helsinki.
 Group: REACT21K
