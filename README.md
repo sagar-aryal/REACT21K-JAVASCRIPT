@@ -11,7 +11,7 @@ This is the repository for my course JavaScript which was organised by Helsinki 
 
 ### Speed Game
 
-[LINK TO THE PROJECT](https://sagar-aryal.github.io/REACT21K_JavaScript/Margit/Lecture5/Speed%20Game/)
+[LINK TO THE PROJECT](https://sagar-aryal.github.io/REACT21K_JavaScript/Margit/Lecture8/Speed%20Game/)
 
 ### Days Left
 
