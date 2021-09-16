@@ -1,4 +1,4 @@
-# REACT21K_JavaScript
+# REACT21K-JAVASCRIPT
 
 ## Description
 
