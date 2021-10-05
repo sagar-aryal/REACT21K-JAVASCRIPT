@@ -11,27 +11,27 @@ This is the repository for my course JavaScript which was organised by Helsinki 
 
 ### Speed Game
 
-[LINK TO THE PROJECT](https://sagar-aryal.github.io/REACT21K_JavaScript/Margit/Lecture8/Speed%20Game/)
+[LINK TO THE PROJECT](https://sagar-aryal.github.io/REACT21K-JAVASCRIPT/Margit/Lecture8/Speed%20Game/)
 
 ### Days Left
 
-[LINK TO THE PROJECT](https://sagar-aryal.github.io/REACT21K_JavaScript/Margit/Lecture5/DaysLeft/)
+[LINK TO THE PROJECT](https://sagar-aryal.github.io/REACT21K-JAVASCRIPT/Margit/Lecture5/DaysLeft/)
 
 ### Background Color Generator
 
-[LINK TO THE PROJECT](https://sagar-aryal.github.io/REACT21K_JavaScript/Margit/Lecture4/BG%20generator/)
+[LINK TO THE PROJECT](https://sagar-aryal.github.io/REACT21K-JAVASCRIPT/Margit/Lecture4/BG%20generator/)
 
 ### Weather Application
 
-[LINK TO THE PROJECT](https://sagar-aryal.github.io/REACT21K_JavaScript/Hoang/WeatherApp/)
+[LINK TO THE PROJECT](https://sagar-aryal.github.io/REACT21K-JAVASCRIPT/Hoang/WeatherApp/)
 
 ### Bulbs Light
 
-[LINK TO THE PROJECT](https://sagar-aryal.github.io/REACT21K_JavaScript/Hoang/Day6/)
+[LINK TO THE PROJECT](https://sagar-aryal.github.io/REACT21K-JAVASCRIPT/Hoang/Day6/)
 
 ### Calculator
 
-[LINK TO THE PROJECT](https://sagar-aryal.github.io/REACT21K_JavaScript/Hoang/Calculator/)
+[LINK TO THE PROJECT](https://sagar-aryal.github.io/REACT21K-JAVASCRIPT/Hoang/Calculator/)
 
 ## Technology
 
