@@ -4,7 +4,7 @@ This is an assignment for Business College Helsinki.
 Group: REACT21K
 Year: 2021
 
-[LINK TO THE PROJECT](https://sagar-aryal.github.io/REACT21K_JavaScript/Hoang/Calculator/)
+[LINK TO THE PROJECT](https://sagar-aryal.github.io/REACT21K-JAVASCRIPT/Hoang/Calculator/)
 
 ## Description
 
