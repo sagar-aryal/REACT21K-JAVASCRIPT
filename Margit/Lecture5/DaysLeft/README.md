@@ -4,7 +4,7 @@ This is an assignment project for Business College Helsinki.
 Group: REACT21K
 Year: 2021
 
-[LINK TO THE PROJECT](https://sagar-aryal.github.io/REACT21K_JavaScript/Margit/Lecture5/DaysLeft/)
+[LINK TO THE PROJECT](https://sagar-aryal.github.io/REACT21K-JAVASCRIPT/Margit/Lecture5/DaysLeft/)
 
 ## Description
 
